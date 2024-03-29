@@ -24,4 +24,12 @@ tails - Hand-crafted templates and components using Tailwind CSS.
 
 TailBlocks - 60+ different ready to use Tailwind CSS blocks.
 
+### --------------------------
+
 https://suncel.io/ressources/top/top-12-best-tailwind-ui-components-kits
+
+
+https://kitwind.io/products/kometa/components/contents
+
+### Ecommerce 
+https://tailblocks.cc/
