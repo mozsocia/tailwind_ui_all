@@ -31,7 +31,10 @@ https://suncel.io/ressources/top/top-12-best-tailwind-ui-components-kits
 
 https://kitwind.io/products/kometa/components/contents
 
-https://www.tailwindawesome.com/?price=free&type=template
+https://www.hyperui.dev/
+
+https://tailblocks.cc/
 
 ### Ecommerce 
 https://tailblocks.cc/
+
