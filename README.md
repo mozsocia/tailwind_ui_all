@@ -1,5 +1,7 @@
 # tailwind_ui_all
 
+https://www.diceui.com/docs/components/file-upload
+
 
 
 There are many UI Libraries, Components & Templates available for tailwind like.
